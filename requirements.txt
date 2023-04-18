@@ -1,0 +1,11 @@
+numpy
+torch
+spacy
+scikit-learn
+transformers
+sentencepiece
+beautifulsoup4
+nltk
+PyPDF2
+docx2txt
+bert-extractive-summarizer
